@@ -1,2 +1,12 @@
 # go-k8s-learn
-Learn how to code to k8s
+
+This project uses different branches to learn how to use GoLang to interact and exten K8S.
+
+## Branches
+
+| Branch | Description |
+| ------ | ----------- |
+| Main   | Keep branches index. |
+
+
+
