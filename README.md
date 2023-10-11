@@ -1,12 +1,14 @@
-# go-k8s-learn
+# Overview
 
-This project uses different branches to learn how to use GoLang to interact and exten K8S.
+Using kubernetes/go-client to authenticate and have access to a k8s cluster.
 
-## Branches
+## Options
 
-| Branch | Description |
-| ------ | ----------- |
-| Main   | Keep branches index. |
+### Ouside cluster
 
+- Using kubeconfig file.
+- Using KUBE_CONFIG env variable to load kube config file.
 
+### Inside cluster
 
+- 
